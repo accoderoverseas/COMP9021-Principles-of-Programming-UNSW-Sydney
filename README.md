@@ -1,7 +1,5 @@
 # COMP9021-Principles-of-Programming-UNSW-Sydney
 
----
-
 ## 留学生计算机cs/数学math辅导
 
 985+C9 CS科班本硕毕业, 在校专业成绩Top1%, 目前外企sde
