@@ -12,6 +12,8 @@
 
 专业课程预习/重点知识体系梳理/课后练习/模拟测试/全程跟班, 持续跟进帮忙答疑解惑
 
+英国/苏格兰/爱尔兰/德国/澳洲/美国/加拿大/新西兰/马来西亚/韩国/日本/港澳台等地区都可以
+
 一起学习, 共同进步!
 
 ---
@@ -37,6 +39,8 @@ With 11 years of experience in CS learning and project development, having guide
 Can guide the quizzes/the Assignment/Assessment/Project/Report/Midterm/Final/Resit for you. 
 
 Preview of professional courses/Review of key knowledge systems/After-class exercises/simulation tests/full-time class attendance, continuous follow-up to help answer questions and solve doubts. 
+
+Regions such as the United Kingdom, Scotland, Ireland, Germany, Australia, the United States, Canada, New Zealand, Malaysia, South Korea, Japan, Hong Kong, Macao and Taiwan are all acceptable. 
 
 Study together, and make progress together!
 
@@ -84,3 +88,4 @@ WeChat: ac_coder_tutor
 E-Mail: accoder_overseas@163.com, accoderoverseas@gmail.com 
     
 (both can contact me, I will login the contacts daily and reply to you immediately)
+
